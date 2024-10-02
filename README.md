@@ -1,7 +1,7 @@
 # dio_docker-compose
 ![website picture](/Images/image1.jpg)
 
-:point_right:[**Visite o website do projeto**](http://18.208.175.63/)<br />
+<!-- :point_right:[**Visite o website do projeto**](http://18.208.175.63/)<br /> -->
 
 ## Começando
 
